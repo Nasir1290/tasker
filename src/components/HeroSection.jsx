@@ -1,5 +1,5 @@
 import React from "react";
-import framePic from '../assets/frame.png';
+import framePic from './frame.png';
 
 export default function HeroSection() {
   return (
