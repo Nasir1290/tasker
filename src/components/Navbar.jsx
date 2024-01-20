@@ -1,5 +1,5 @@
 import React from 'react'
-import lwsLogo from '../assets/lws-logo-en.svg'
+import lwsLogo from './lws-logo-en.svg'
 
 export default function Navbar() {
   return (
